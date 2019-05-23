@@ -1,0 +1,25 @@
+data/
+__pycache__/
+private_config.py
+
+# jupyter
+.ipynb_checkpoints/
+
+# ipython
+profile_default/
+ipython_config.py
+
+# envs
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pycharm
+.idea/
+logs/
+.vscode/
+imgs_test/
